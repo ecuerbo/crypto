@@ -1,2 +1,2 @@
-# MachLearn
-Learning to ML
+# Cypto projects
+personal studies on crypto
